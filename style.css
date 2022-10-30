@@ -43,5 +43,13 @@ td {
 }
 
 a[href="index.html"] {
-    color:#242424;
+    color:green;
+}
+
+a[href="contact.html"] {
+    color: red;
+}
+
+a[href="about.html"] {
+    color: blue;
 }
