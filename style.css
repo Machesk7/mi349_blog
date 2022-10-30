@@ -43,13 +43,16 @@ td {
 }
 
 a[href="index.html"] {
-    color:green;
+    color:blue;
+    font-size: 2em;
 }
 
 a[href="contact.html"] {
     color: blue;
+    font-size: 2em;
 }
 
 a[href="about.html"] {
     color: blue;
+    font-size: 2em;
 }
