@@ -41,7 +41,7 @@ td {
     font-size: 1em;
 
 }
-a[label] {
-    font-size: 2em;
-    
+
+a[href="index.html"] {
+    color:#242424;
 }
