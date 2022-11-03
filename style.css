@@ -29,7 +29,10 @@ p {
 .blog-post {
     border-bottom: 1px dotted #ccc;
 }
-
+.liv {
+    height: 50px;
+    width: 50px;
+}
 
 #blog:nth-of-type(1) {
     flex:1
