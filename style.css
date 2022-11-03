@@ -29,6 +29,13 @@ p {
 .blog-post {
     border-bottom: 1px dotted #ccc;
 }
+article:nth-of-type(2) {
+
+}
+
+article:nth-of-type(3) {
+    
+}
 
 h2 {
     font-size: 2em;
