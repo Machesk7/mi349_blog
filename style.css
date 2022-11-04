@@ -30,9 +30,13 @@ p {
     border-bottom: 1px dotted #ccc;
 }
 .liv {
-    height: 10%;
-    width: 10%;
-    float: left;
+    height: 50px;
+    width: 50px;
+}
+
+.liv img {
+    height: 100%;
+    width: 100%;
 }
 
 .coyote {
