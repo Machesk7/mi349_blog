@@ -9,31 +9,7 @@ body {
     border-top: 10px solid #242424;
     background: #fff;
 }
-nav {
-    background-color: #fff;
-    padding: 10px;
-    text-align: center;
-    width: 100%;
-    position: sticky;
-    top: 0px;
-  }
-  
-  nav a {
-    color: white;
-    text-decoration: none;
-    margin: 0px 10px;
-  }
-  
-  nav a:hover {
-    text-decoration: underline;
-  }
-  
-  @media
-  (prefers-reduced-motion: no-preference) {
-    html {
-      scroll-behavior: smooth;
-    }
-  }
+
 
 
 
