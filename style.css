@@ -118,3 +118,28 @@ a[href="about.html"] {
     color: blue;
     font-size: 1em;
 }
+
+@media (max-width:400px ) {
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        color: #242424;
+        border-top: 5px solid #242424;
+        background: #fff;
+    }
+
+    #blog {
+        border-top: 1px dotted #ccc;
+        display: flex;
+        padding: 10px;
+        margin: 10px
+
+    }
+
+    h2 {
+        font-size: 1em;
+    }
+
+
+
+
+}
